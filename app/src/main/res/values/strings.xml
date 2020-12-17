@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MealWith</string>
+    <string name="AppName">MealWith</string>
+    <string name="logo_mealwith">Logo MealWith</string>
 </resources>
